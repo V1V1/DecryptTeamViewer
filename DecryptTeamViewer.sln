@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptTeamViewer", "DecryptTeamViewer\DecryptTeamViewer.csproj", "{D6AAED62-BBFC-4F2A-A2A4-35EC5B2A4E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6AAED62-BBFC-4F2A-A2A4-35EC5B2A4E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AAED62-BBFC-4F2A-A2A4-35EC5B2A4E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AAED62-BBFC-4F2A-A2A4-35EC5B2A4E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AAED62-BBFC-4F2A-A2A4-35EC5B2A4E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C02553C-431C-4BB7-AEC1-3CDC69A660E8}
+	EndGlobalSection
+EndGlobal
